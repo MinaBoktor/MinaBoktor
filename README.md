@@ -23,6 +23,9 @@ I'm a passionate software engineer with a deep interest in **cybersecurity**, **
 - 🎯 **Focus Areas**: Cryptography, Web Security, Full-Stack Development, Software Architecture
 
 </div>
+<div style="flex: 0 0 350px;">
+<img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 </div>
 
 ---
@@ -133,6 +136,7 @@ A sophisticated financial analytics and equity management platform designed for 
 ### 🔐 RSA-secureX - Advanced Cryptographic System
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MinaBoktor&repo=RSA-secureX&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF)](https://github.com/MinaBoktor/RSA-secureX)
 
+
 A sophisticated implementation of the RSA public-key cryptosystem featuring extended precision arithmetic for handling massive integers (hundreds of digits). Built with security-first principles and optimized performance.
 
 **🎯 Key Features:**
@@ -150,7 +154,7 @@ A sophisticated implementation of the RSA public-key cryptosystem featuring exte
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MinaBoktor&repo=Offline-mode&theme=react&bg_color=1F222E&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF)](https://github.com/MinaBoktor/Offline-mode)
 
 <div align="center">
-<img src="https://via.placeholder.com/600x300/1F222E/00D9FF?text=Offline+Mode+Bookmark+Sync" alt="Offline Mode Demo" style="border-radius: 10px; margin: 10px 0;"/>
+<img src="offline.png" alt="Offline Mode Demo" style="border-radius: 10px; margin: 10px 0;"/>
 </div>
 
 Intelligent offline bookmark management solution that creates local copies of Raindrop.io bookmarks, ensuring accessibility even without internet connectivity through smart synchronization.
@@ -198,10 +202,10 @@ I'm always excited to connect with fellow developers, discuss innovative project
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 25px;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.1)](https://linkedin.com/in/minaboktor)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.1)](mailto:mina.boktor@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.1)](https://www.linkedin.com/in/minaboktor1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.1)](mailto:mina.maged.pe@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&scale=1.1)](https://minaboktor.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&scale=1.1)](https://twitter.com/minaboktor)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&scale=1.1)](https://x.com/Mina__Boktor)
 
 </div>
 
@@ -211,7 +215,7 @@ I'm always excited to connect with fellow developers, discuss innovative project
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 💻 Code Philosophy
 
